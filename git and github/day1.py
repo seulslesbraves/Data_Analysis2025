@@ -8,9 +8,11 @@ An online platform to store our project code."""
 """
 1. Initialize the git : git init (only one time for a project)
 2. Connect system folder with github repository : git remote add origin {ssh_key} (only one time for a project)
+# U stands for UNtracked...  # A stands for added in git   
+# M stands for M
 3. Add files to github : git add {file_name}}  (to add all files we use git add . )
-4. 
-
-
-
+4. Commit the files : git commit ~m "Message"
+5. Push the git to github : git push -u origin {branch_name} // git push origin {branch_name}
+# -u : Upstream
+# At first push, it is recommended to use : git push -u origin {branch_name} 
 """
