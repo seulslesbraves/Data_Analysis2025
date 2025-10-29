@@ -1,0 +1,1 @@
+{"inez": {"password": "inez223", "balance": 0}}-{"jihyaa": "jihyaa123"}-{"hermez": "hermez123"}-{"Anna": {"password": "anna123", "balance": 1900.0}}-{"arik": {"password": "arikale", "balance": 0}}-{"ADAM": {"password": "ADAM123", "balance": 502.0}}-
