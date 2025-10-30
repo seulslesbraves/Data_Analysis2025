@@ -23,3 +23,7 @@ An online platform to store our project code."""
 TO view all the branches : git branch // git branch -a
 To switch between the branches : git switch {branch_name}
 """
+#We should create a PR (Pull Request) to merge at master branch
+"""
+PR is a request to the owner of the repo of the github
+stating that to merge your code into repository. """
