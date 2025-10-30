@@ -13,6 +13,6 @@ An online platform to store our project code."""
 3. Add files to github : git add {file_name}}  (to add all files we use git add . )
 4. Commit the files : git commit ~m "Message"
 5. Push the git to github : git push -u origin {branch_name} // git push origin {branch_name}
-# -u : Upstream
+# -u : Upstream that saves the repository
 # At first push, it is recommended to use : git push -u origin {branch_name} 
 """
