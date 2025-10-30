@@ -17,3 +17,9 @@ An online platform to store our project code."""
 # At first push, it is recommended to use : git push -u origin {branch_name} 
 6. To pull the code from github : git pull origin {branch_name}
 """
+
+#To create a new branch : git branch {branch_name}
+"""
+TO view all the branches : git branch // git branch -a
+To switch between the branches : git switch {branch_name}
+"""
